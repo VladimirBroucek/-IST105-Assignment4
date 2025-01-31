@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Assignment #4: Enter Values</h1>
-        <form action="" method="post">
+        <form action="process.php" method="post">
             <label for="a">Enter value for a:</label>
             <input type="number" id="a" name="a" required><br><br>
 
